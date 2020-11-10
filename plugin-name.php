@@ -8,17 +8,17 @@
   * registra as funções de ativação e desativação e define uma função
   * que inicia o plugin.
  *
- * @link              https://agenciatitanio.com.br/
+ * @link              https://webdevops.solutions/
  * @since             1.0.0
  * @package           PluguinName
  *
  * @wordpress-plugin
  * Plugin Name:       Plugin Name
- * Plugin URI:        https://agenciatitanio.com.br/
+ * Plugin URI:        https://webdevops.solutions/
  * Description:       Escreva a descrição do Plugin.
  * Version:           1.0.0
- * Author:            Agência Titânio
- * Author URI:        https://agenciatitanio.com.br/
+ * Author:            Diogo Barbosa Silva Sousa
+ * Author URI:        https://webdevops.solutions/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       plugin-name
