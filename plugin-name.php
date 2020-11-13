@@ -64,7 +64,7 @@ add_action('wp_head',' plugin_name_constantes_js', 20);
 
 //require_once(__DIR__ . '/vendor/autoload.php'); // Autoload do composer
 
-require_once(__DIR__ .'/include/plugin-name-helper.php');
+require_once(__DIR__ .'/includes/plugin-name-helper.php');
 
 require_once(__DIR__ .'/admin/plugin-name-admin.php');
 
